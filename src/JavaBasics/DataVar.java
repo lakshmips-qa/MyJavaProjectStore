@@ -8,6 +8,7 @@ public class DataVar {
         char c='A';
         float f=12.8f;
         double d=13456.8;
+        long l=9181918211l;
         String name="Lakshmi";
         System.out.println(b);
         System.out.println(s);
